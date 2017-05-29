@@ -4,7 +4,7 @@ using UnityEngine;
 using System.Text;
 using System.IO;
 
-public class NewHorizon : MonoBehaviour
+public class Main : MonoBehaviour
 {
 
     /*
